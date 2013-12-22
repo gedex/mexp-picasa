@@ -15,6 +15,8 @@ Picasa extension for the Media Explorer.
 This plugin is an extension for [Media Exporer](https://github.com/Automattic/media-explorer/) plugin that adds Picasa service.
 This extension allows user to search photos from Picasa by text, tag and user ID.
 
+Please note that currently Picasa oEmbed is not supported by default, so you need to implement Picasa oEmbed implementation.
+
 **Development of this plugin is done [on GitHub](https://github.com/gedex/mexp-picasa). Pull requests welcome.**
 
 ## Installation ##
